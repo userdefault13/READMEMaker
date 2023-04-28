@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Description
-This application helps to generate a professional README file
+A tool to create a README file.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,10 +14,10 @@ This application helps to generate a professional README file
 - [Questions](#questions)
 
 ## Installation
-run node index.js
+node index.js
 
 ## Usage
-Answer the prompts and they will be added to a README file
+Simply answer all prompts and a README file will be generated.
 
 ## License
 This project is licensed under the MIT license.
@@ -25,12 +25,12 @@ This project is licensed under the MIT license.
 MIT
 
 ## Contributing
-go wild
+test on
 
 ## Tests
-to test the functionality, create a new README with the application, then check develop folder for the README file with your answers
+run the app, answer prompt, then check for README file in folder.
 
 
 ## Questions
-For any questions or feedback regarding this application, please feel free to reach out to me on [GitHub](https://github.com/userdefault13).
-n/a
+For any questions or feedback regarding this application, please feel free to reach out to me at user.defaults@gmail.com or on [GitHub](https://github.com/userdefault13).
+keep calm, test on
